@@ -1,0 +1,44 @@
+[[atividade-fisica]]
+== Teoria: Atividade física relacionada à saúde ==
+
+texto...
+
+=== O que é atividade física
+(((Atividade física)))
+texto...
+
+=== Por que fazer atividade fisica, pra que e como?
+(((Atividade física)))
+
+texto...
+
+=== Doenças relacionadas ao sedentarismo
+(((Sedentarismo)))
+texto...
+
+=== Fazer atividade física consciente
+texto...
+
+==== Zona Alvo
+(((Zona Alvo)))
+texto...
+
+==== Índice de Massa Corpórea (IMC) e Índice de Adiposidade Corporal (IAC)
+(((IMC))) (((IAC)))
+texto...
+
+==== Índice de Conicidade (IC)
+(((IC)))
+texto...
+
+==== Cálculos
+texto...
+
+
+=== Bibliografia ===
+// Bibliografia deste capítulo,
+// atualize o conteúdo abaixo e faça referencia em seu texto.
+
+[bibliography]
+- [[[basquete1]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.
+- [[[basquete2]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.

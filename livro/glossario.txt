@@ -1,0 +1,14 @@
+[[glossario]]
+[glossary]
+Glossário
+=========
+No glossário você encontra o significado de algumas palavras utilizadas no 
+texto.
+
+[glossary]
+FCM::
+  Frequência cardíaca máxima.
+
+Outro termo::
+  Explicação do termo aqui.
+

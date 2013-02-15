@@ -1,0 +1,39 @@
+[[profissional]]
+== Profissional de Educação Física
+texto...
+
+=== Reconhecendo a Educação Física
+texto...
+
+==== Respeitar e divulgar a educação física
+texto...
+
+==== Educação Física não é só jogar bola
+texto...
+
+=== Atividade física nas praças
+texto...
+
+=== O trabalho do profissional de educação fisica
+texto...
+
+==== Videos mostrando os profissionais
+texto...
+
+
+["qrcode", size=10, width="15%"]
+.Video sobre Ginástica na Praça: http://youtu.be/2ctOp4Jssx8
+--------------------------------------------------
+http://youtu.be/2ctOp4Jssx8
+--------------------------------------------------
+
+
+
+
+=== Bibliografia ===
+// Bibliografia deste capítulo,
+// atualize o conteúdo abaixo e faça referencia em seu texto.
+
+[bibliography]
+- [[[profissional1]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.
+- [[[profissional2]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.

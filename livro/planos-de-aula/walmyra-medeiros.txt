@@ -1,0 +1,45 @@
+[[walmyra]]
+== Walmyra Medeiros ==
+
+Os planos de aulas apresentados a seguir foram elaborados para turmas 
+do terceiro ano.
+
+=== Primeiro dia: Apresentação do Planejamento da Disciplina
+// Entradas para o índice remissivo:
+(((Plano de Aula, PCN)))
+(((Plano de Aula, LDB)))
+(((Plano de Curso)))
+
+
+.Desenvolvimento das Atividades
+
+Apresentação dos direitos contidos na LDB::
+  Para que os alunos possam entender que a esta lei (<<LDB>>) existe e que foi a partir 
+  dela que a Educação física, e outras disciplinas, passaram a ser estruturadas. 
+
+Apresentação do PCN de Educação Física::
+  Informar sobre a existência do PCN (<<PCN-edfisica>>) e que a Educação Física está inserida 
+  na "Parte II: Linguagens, Códigos e suas Tecnologias" . 
+// 214, orientação curricular, ensino médio. 
+
+Apresentação do Plano de Curso Anual da Disciplina::
+  Apresentação dos conteúdos que serão abordados em cada bimestre. Informando 
+  que temos flexibilidade no plano e poderíamos adapta-lo caso proponham 
+  mudanças, contanto que esteja em conformidade com o PCN (<<PCN>>).
+  O Plano pode ser acessado em: 
+  https://github.com/edusantana/edfisica-livro/raw/master/livro/planos-de-aula/walmyra/plano-anual.docx
+
+Sobre as avaliações::
+  Apresentação de como eles serão avaliados na disciplina.
+
+Coleta de expectativa sobre a discplina::
+  Solicitar que cada aluno entregue uma folha descrevendo as expectativas
+  para a discplina ao longo do ano.
+
+
+[qanda]
+.Perguntas dos alunos
+Sabendo que Educação Física é uma disciplina obrigatória, por que ela não é tratada com a devida importância pelos demais professores? ::
+
+Eu não posso responder pelos outros, apenas por mim. É uma questão de consciência e de responsabilidade, eu me sinto bem trabalhando assim.
+

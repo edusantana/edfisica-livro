@@ -1,0 +1,68 @@
+[[zona-alvo]]
+== Zona Alvo ==
+
+//Falta explicar o que é a zona alvo.
+
+Zona alvo é... 
+
+Existem inúmeras fórmulas para calcular-se a ((Zona Alvo)) de treinamento. 
+Adotaremos a mais simples. Apesar de a fórmula original ser de 220-idade, 
+para encontrarmos a Frequência Cardíaca Máxima (FCM), adotaremos esta: 
+210-idade (com 10 batimentos a menos; criando uma zona de segurança).
+
+Então, adotaremos como exemplo Alice, uma garota sedentária, com a idade de 
+20 anos, que se programou para fazer caminhada durante meia hora, três vezes
+por semana. 
+
+[IMPORTANT]
+.Fórmula para o cálculo da frequencia
+=====================
+Frequencia = 210 - idade
+=====================
+
+.Calculando a Frequencia Cardíaca Máxima (FCM)
+|==================================================
+| Nome: Alice    | Idade: *20 anos*
+2+| 210 - *20* = 190, onde este valor representa a FCM
+|==================================================
+
+A partir deste valor precisamos encontrar os valores abaixo 
+(considere que desprezar as casas decimais.): 
+
+=========
+ FCM x 65% = frequência cardíaca mínima para as atividades físicas propostas 
+ 190 x 65% = 123 bpm
+ FCM x 75% = frequência cardíaca ideal para as atividades físicas propostas  
+ 190 x 75% = 142 bpm
+ FCM x 85% = frequência cardíaca máxima para as atividades físicas propostas 
+ 190 x 85% = 161 bpm
+=========
+
+As formas manuais mais eficazes para medir a ((Frequência Cardíaca)) 
+(pulsação) estão ilustradas abaixo:
+
+Retornemos a Alice. O valor da sua Frequência Cardíaca Ideal
+(também chamada de Limite Médio) é de 142bpm (batimentos por minuto),
+adotando-se apenas 10 segundos para medição da frequência cardíaca, podemos 
+dizer que a sua frequência é de 23 batimentos neste intervalo, desprezando-se
+as casas decimais.
+
+Lembre-se que tão importante como calcular a zona alvo de frequência cardíaca,
+ é acompanhá-la durante a atividade. Trabalhar com batimentos fora dos 
+recomendados pode causar sérios prejuízos a sua saúde.       
+
+[[sedentarismo]]
+.Fuja do sedentarismo!
+image:images/fuja-do-sedentarismo.png[scaledwidth="5%"]
+
+
+=== Bibliografia ===
+// Bibliografia deste capítulo,
+// atualize o conteúdo abaixo e faça referencia em seu texto.
+
+[bibliography]
+- [[[tabom]]] Eric Steven Raymond. 'The Art of Unix
+  Programming'. Addison-Wesley. ISBN 0-13-142901-9.
+- [[[eitamuellner]]] Norman Walsh & Leonard Muellner.
+  'DocBook - The Definitive Guide'. O'Reilly & Associates. 1999.
+  ISBN 1-56592-580-7.

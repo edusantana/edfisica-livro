@@ -1,0 +1,36 @@
+[[teoria-jogos]]
+== Teoria: Jogos ==
+(((Jogos)))
+texto...
+
+=== Histórico e definição
+
+texto...
+
+=== Competição ou Cooperação
+
+texto...
+
+==== Competição
+(((Jogos, Competitivos)))
+texto...
+
+==== Cooperação
+(((Jogos, Coperativos)))
+texto...
+
+=== Atividade elaboração e modificação de regras
+texto...
+
+==== Aplicação dos jogos
+texto...
+
+
+
+=== Bibliografia ===
+// Bibliografia deste capítulo,
+// atualize o conteúdo abaixo e faça referencia em seu texto.
+
+[bibliography]
+- [[[jogos1]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.
+- [[[jogos2]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.

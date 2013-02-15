@@ -1,0 +1,66 @@
+Educação Física para o Ensino Médio
+===================================
+Walmyra Medeiros Alexandre
+v1.0, 2003-12
+:doctype: book
+:lang: pt-BR
+:keywords:    Educação Física, Ensino Médio
+:description: Livro de Educação Física para o Ensino Médio
+:ascii-ids:
+
+// a2x default options.
+//   a2x: -f pdf -v
+// Inclusão de metadados (docinfo.xml)
+//   a2x: -a docinfo1
+//   a2x: -D ../pdf
+// Incluindo numero de página na referencia
+//   a2x: --dblatex-opts "-P insert.xref.page.number=yes"
+
+
+
+include::dedicatoria.txt[]
+include::prefacio.txt[]
+
+// Partes
+Educação Física
+===============
+include::capitulos/conteudo-programatico.txt[]
+include::capitulos/teoria-atividade-fisica.txt[]
+include::capitulos/profissional-de-educacao-fisica.txt[]
+
+
+Jogos
+=====
+include::capitulos/teoria-jogos.txt[]
+
+// Esportes
+// ========
+
+// include::capitulos/futebol.txt[]
+// include::capitulos/volei.txt[]
+// include::capitulos/basquete.txt[]
+// include::capitulos/handebol.txt[]
+
+[[planos]]
+Planos de Aula
+==============
+include::planos-de-aula/planos.txt[]
+include::planos-de-aula/walmyra-medeiros.txt[]
+
+
+// Diversos
+// ========
+// include::capitulos/qualidade-de-vida.txt[]
+// include::capitulos/zona-alvo.txt[]
+
+
+
+
+// :numbered!:
+
+include::apendice.txt[]
+include::glossario.txt[]
+include::indice-remissivo.txt[]
+
+
+

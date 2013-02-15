@@ -1,0 +1,16 @@
+[[prefacio]]
+[preface]
+Prefácio
+========
+Texto do prefácio
+
+[[organizacao-livro]]
+=== Organização do livro ===
+Este livro é organizado em X partes...
+
+
+["qrcode", size=10, width="15%"]
+--------------------------------------------------
+https://github.com/edusantana/edfisica-livro
+--------------------------------------------------
+

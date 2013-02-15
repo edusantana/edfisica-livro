@@ -1,0 +1,14 @@
+[[volei]]
+== Volei ==
+
+Texto do capítulo aqui, <<volei1>>.
+
+
+
+=== Bibliografia ===
+// Bibliografia deste capítulo,
+// atualize o conteúdo abaixo e faça referencia em seu texto.
+
+[bibliography]
+- [[[volei1]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.
+- [[[volei2]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.

@@ -1,0 +1,14 @@
+[[futebol]]
+== Futebol ==
+
+Texto do capítulo aqui, <<fut1>>.
+
+
+
+=== Bibliografia ===
+// Bibliografia deste capítulo,
+// atualize o conteúdo abaixo e faça referencia em seu texto.
+
+[bibliography]
+- [[[fut1]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.
+- [[[fut2]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.

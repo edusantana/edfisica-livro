@@ -1,0 +1,39 @@
+[[conteudo-programatico]]
+== Conteúdo programático da Educação Física ==
+(((Educação Física, Conteúdo programático)))
+
+texto...
+
+[[LDB]]
+=== Leis que regulam a Educação Física
+(((LDB)))
+
+
+texto...
+
+NOTE: Você pode consultar a LDB no seguinte link: 
+http://www.planalto.gov.br/ccivil_03/Leis/L9394.htm.
+
+[[PCN]]
+=== Parâmetros Curriculares Nacionais (PCN)
+(((PCN)))
+
+texto...
+
+[[PCN-edfisica]]
+==== PCN de Educação Física
+(((Educação Física, PCN)))
+texto...
+
+=== Educação Física cai no ENEM?
+(((Educação Física, ENEM)))
+
+texto...
+
+=== Bibliografia ===
+// Bibliografia deste capítulo,
+// atualize o conteúdo abaixo e faça referencia em seu texto.
+
+[bibliography]
+- [[[conteudo-programatico1]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.
+- [[[conteudo-programatico2]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.

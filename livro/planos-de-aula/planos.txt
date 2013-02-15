@@ -1,0 +1,9 @@
+
+[partintro]
+.Organização dos planos
+--
+Os planos de aulas serão organizados por autores,
+mas sempre relacionando quais assuntos são abordados
+nas aulas, de tal forma que será possível identificar, consultando o Índice Remissivo, 
+quais as aulas que abordam determinados assuntos.
+--

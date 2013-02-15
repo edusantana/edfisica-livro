@@ -1,0 +1,6 @@
+[dedication]
+[[dedicatoria]]
+Dedicatória
+===========
+Texto da dedicatória vem aqui.
+
