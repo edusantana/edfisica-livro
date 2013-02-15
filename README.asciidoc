@@ -25,7 +25,7 @@ arquivos .txt*.
 
 ==== Atualizando um tema existente
 Para atualizar um tema existente, escolha um arquivo para editar em:
-https://github.com/edusantana/edfisica-livro/tree/master/livro
+https://github.com/edusantana/edfisica-livro/tree/master/livro/capitulos
 
 ==== Como funcionar o processo da contribuição?
 Quando você faz qualquer alteração nos arquivos do projeto, o github faz um
