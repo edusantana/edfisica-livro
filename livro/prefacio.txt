@@ -2,15 +2,14 @@
 [preface]
 Prefácio
 ========
-Texto do prefácio
 
-[[organizacao-livro]]
-=== Organização do livro ===
-Este livro é organizado em X partes...
+NOTE: Envie dúvidas, correções e sugestões através do seguinte link:
+https://github.com/edusantana/edfisica-livro/issues
 
 
-["qrcode", size=10, width="15%"]
---------------------------------------------------
+["qrcode", size=10, width="20%"]
+.Site do livro: https://github.com/edusantana/edfisica-livro
+------------------------------------------------------------
 https://github.com/edusantana/edfisica-livro
---------------------------------------------------
+------------------------------------------------------------
 

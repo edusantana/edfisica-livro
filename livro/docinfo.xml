@@ -3,7 +3,21 @@
   rudder-doc-docinfo.xml
   DocBook document information file for rudder-doc.txt.
 -->
-  <edition>Beta1</edition>
+  <edition>v0.1a</edition>
+
+  <revhistory>
+    <revision>
+      <revnumber>v0.1a</revnumber>
+      <date>Fevereiro 2013</date>
+      <authorinitials>WMA</authorinitials>
+      <revremark>
+        Estrutura inicial dos capítulos: Conteúdo programático da Educação Física;
+        Teoria: Atividade física relacionada à saúde;
+        Profissional de Educação Física; Teoria: Jogos; Planos de Aula        
+      </revremark>
+    </revision>
+  </revhistory>
+
 
   <authorgroup>
     <author>
@@ -65,19 +79,6 @@
     </simpara>
   </legalnotice>
 
-  <revhistory>
-    <revision>
-      <revnumber>0.1</revnumber>
-      <date>Fevereiro 2013</date>
-      <authorinitials>WMA</authorinitials>
-      <revremark>
-        Inclusão da Teoria da Atividade Física,
-        Teoria sobre jogos e Profissional de
-        Educação Física.
-        
-      </revremark>
-    </revision>
-  </revhistory>
   
     <mediaobject role="cover">
       <imageobject>
