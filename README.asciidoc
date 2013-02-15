@@ -40,6 +40,16 @@ para o projeto original. Você pode fazer isso através da opção 'Pull Request
 === Ferramentas
 
 No windows usar o github for windows: http://github-windows.s3.amazonaws.com/GitHubSetup.exe
+
 Editor de texto: http://www.sublimetext.com/
+
 Plugin-in-assciidoc: https://github.com/SublimeText/AsciiDoc (ver instruções de instalação)
+
+==== Gerando versão pdf
+
+O seguinte comando gera edfisica-livro.pdf em ../pdf:
+
+ ~/ambiente/asciidoc-8.6.8/a2x.py edfisica-livro.txt
+
+WARNNING: Certifique-se de que existe o diretório: _edfisica-livro/pdf_
 
