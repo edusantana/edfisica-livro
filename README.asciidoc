@@ -51,5 +51,5 @@ O seguinte comando gera edfisica-livro.pdf em ../pdf:
 
  ~/ambiente/asciidoc-8.6.8/a2x.py edfisica-livro.txt
 
-WARNNING: Certifique-se de que existe o diretório: _edfisica-livro/pdf_
+WARNING: Certifique-se de que existe o diretório: _edfisica-livro/pdf_
 
