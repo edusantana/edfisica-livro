@@ -18,8 +18,8 @@ Apresentação dos direitos contidos na LDB::
   dela que a Educação física, e outras disciplinas, passaram a ser estruturadas. 
 
 Apresentação do PCN de Educação Física::
-  Informar sobre a existência do PCN (<<PCN-edfisica>>) e que a Educação Física está inserida 
-  na "Parte II: Linguagens, Códigos e suas Tecnologias" . 
+  Informar sobre a existência do PCN (<<PCN-edfisica>>) e que a Educação Física 
+  está inserida na "Parte II: Linguagens, Códigos e suas Tecnologias" . 
 // 214, orientação curricular, ensino médio. 
 
 Apresentação do Plano de Curso Anual da Disciplina::
@@ -27,10 +27,10 @@ Apresentação do Plano de Curso Anual da Disciplina::
   que temos flexibilidade no plano e poderíamos adapta-lo caso proponham 
   mudanças, contanto que esteja em conformidade com o PCN (<<PCN>>).
   O Plano pode ser acessado em: 
-  https://github.com/edusantana/edfisica-livro/raw/master/livro/planos-de-aula/walmyra/plano-anual.docx
+  https://github.com/walmyra/professora-walmyra/raw/master/plano-de-curso-2013.docx
 
-Sobre as avaliações::
-  Apresentação de como eles serão avaliados na disciplina.
+Apresentação da forma de avaliação::
+  Apresentar a forma de como os alunos serão avaliação -- seção do Plano de curso.
 
 Coleta de expectativa sobre a discplina::
   Solicitar que cada aluno entregue uma folha descrevendo as expectativas
@@ -39,7 +39,7 @@ Coleta de expectativa sobre a discplina::
 
 [qanda]
 .Perguntas dos alunos
-Sabendo que Educação Física é uma disciplina obrigatória, por que ela não é tratada com a devida importância pelos demais professores? ::
+Sabendo que a Educação Física é uma disciplina obrigatória, por que ela não é tratada com a devida importância pelos demais professores? ::
 
 Eu não posso responder pelos outros, apenas por mim. É uma questão de consciência e de responsabilidade, eu me sinto bem trabalhando assim.
 
