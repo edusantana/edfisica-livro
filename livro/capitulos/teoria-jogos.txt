@@ -12,11 +12,11 @@ texto...
 texto...
 
 ==== Competição
-(((Jogos, Competitivos)))
+(((Jogos, Jogos Competitivos)))
 texto...
 
 ==== Cooperação
-(((Jogos, Coperativos)))
+(((Jogos, Jogos Coperativos)))
 texto...
 
 === Atividade elaboração e modificação de regras
