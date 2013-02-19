@@ -3,12 +3,12 @@
 (((Educação Física, Conteúdo programático)))
 
 Antes de falarmos especificamente sobre a Educação Física, é importante
-que o aluno compreendar o contexto em que ela se encontra.
+que o aluno compreenda o contexto em que ela se encontra.
 
 
 === Contexto da Disciplina de Educaçao Física na Educação
 
-Você, aluno do 1° ao 3° ano, já conclui o *Ensino Fundamental* e está cursando 
+Você, aluno do 1° ao 3° ano, que já conclui o *Ensino Fundamental* e está cursando 
 o *Ensino Médio*, provavelmente buscando ingressar no *Ensino Superior* 
 ou no Mercado de Trabalho. 
 
@@ -43,6 +43,7 @@ seguintes conteúdos:
 - Profissionais da Educação
 - Recursos financeiros
 
+// TODO: achar um local para divulgar isto, contido na LDB.
 // Art. 80. O Poder Público incentivará o desenvolvimento e a veiculação de 
 // programas de ensino a distância, em todos os níveis e modalidades de ensino, 
 // e de educação continuada. (Regulamento)
@@ -165,13 +166,13 @@ em Matemática não está definido que deve ser ensinado no primeiro,
 segundo ou terceiro ano.].  
 Historicamente estes conteúdos foram dividos por séries conforme eram cobrados
 nos vestibulares das universidades próximas. Portanto, para ministrar os
-conteúdos os professores devem conhecer os programas que seus alunos irão
+conteúdos os professores devem conhecer os programas ao quais seus alunos irão
 ser submetidos.
 
 Os Parâmetros Curriculares Nacionais (PCNs) foram elaborados para auxiliar
 os professores na busca de novas abordagens e metodologias para utilizar
 em sua sala de aula. Os PCNs, do ensino médio, foram divididos em 3 grandes 
-áreas, que contemplam todas as disciplinas. 
+áreas, que contemplam todas as disciplinas que você estuda.
 Veremos a seguir o PCN que contempla a Educação Física.
 
 
@@ -230,8 +231,8 @@ Veremos a seguir o PCN que contempla a Educação Física.
 ==== PCN que contempla a Educação Física
 (((Educação Física, PCN)))
 
-A área do PCN que contempla a Educação Física é a *Linguagens, Códigos e 
-suas Tecnologias*.
+O PCN dividiu as disciplinas em 3 grandes áreas, a área contempla a Educação Física é
+a *Linguagens, Códigos e suas Tecnologias*.
 
 .Área do PCN que contempla a Educação Física
 ["graphviz", "contexto-edfisica.png"]
@@ -271,8 +272,9 @@ https://github.com/walmyra/professora-walmyra/raw/master/PCN-Linguagens_codigos_
 ===========================
 
 O texto do PCN trás um conceito para *Linguagem* que o aluno do ensino médio 
-não está familiarizado, mas de uma forma geral, os objetivos desta área pode
-se resumir ao seguinte:
+não está familiarizado -- o que dificulta a sua compreensão. 
+Mas de uma forma geral, o paráfrago a seguir resume o objetivo de forma geral
+desta área:
 
 
 [quote, PCN]
@@ -383,6 +385,8 @@ Pergunta para refletir aqui.
 ______________
 
 
+// TODO Adicionar atividade sobre esta seção?
+
 
 // professor-treinador e aluno-atleta.
 
@@ -433,15 +437,13 @@ médio se propõe (<<ldb_trechos>>).
 === Atividade(s)
 
 
-. Você sabia que a palavra *saúde* possui vários significados? Pesquise  
-os significados de saúde e indique qual destes você usualmente emprega.
+. O PNC nos trás que o objetivo principal da educação Física deve ser a 
+Educação para Saúde. Você sabia que a palavra *saúde* possui vários significados? 
+Pesquise os significados de saúde e indique qual destes você usualmente emprega.
 
-. Pense um pouco, do que a sociedade precisa mais: Pessoas competitivas que
-buscam ser melhores do que as outras ou pessoas que sabem cooperar e trabalhar 
-em grupo reconhecendo e respeitando a diversidade? Utilizando como base a 
-resposta da pergunta anterior, como deve ser o papel da Educação física para 
-colaborar com as necessidades da sociedade?
-
+. Pense um pouco. Como a valorização da vitória nos esportes e o ensino de
+práticas para melhorar o desempenho esportivo poderia afastar a Educação Física
+dos objetivos propostos para o ensino médio (<<ldb_trechos>>)?
 
 
 === A Importância da Educação Física -- cai no ENEM?
@@ -453,13 +455,12 @@ compromisso* que as outras disciplinas conquistaram.
 
 O Reconhecimento da Educação Física pode ser comprovado através do ENEM, 
 onde encontramos várias questões relacionadas aos conteúdos de Educação 
-Física ao decorrer dos
-anos. *Sim, Educação Física cai no ENEM!*
+Física ao decorrer dos anos. *Sim, Educação Física cai no ENEM!*
 
 ==== Atividade(s)
 
 . Por que historicamente a não _era_ dado a Educação Física a mesma importância
-que a outras disciplinas possuiam?
+que a outras disciplinas?
 
 
 === Bibliografia ===
@@ -467,5 +468,8 @@ que a outras disciplinas possuiam?
 // atualize o conteúdo abaixo e faça referencia em seu texto.
 
 [bibliography]
-- [[[conteudo-programatico1]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.
-- [[[conteudo-programatico2]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.
+- [[[ldb-lei]]] Congresso Nacional. 'LEI Nº 9.394'. http://www.planalto.gov.br/ccivil_03/Leis/L9394.htm
+- [[[pcnem-mec]]] Ministério da Educação. 'Parâmetros Curriculares Nacionais para o Ensino Médio (PCNEM)'. Link: http://portal.mec.gov.br/index.php?id=12598:publicacoes&option=com_content&view=article
+
+// - [[[conteudo-programatico1]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.
+
