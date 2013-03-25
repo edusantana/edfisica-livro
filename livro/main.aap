@@ -1,0 +1,8 @@
+all : pdf
+
+pdf: *.txt capitulos/*.txt
+  :sys ~/ambiente/asciidoc-8.6.8/a2x.py -v -f pdf -a docinfo1 --dblatex-opts "-P insert.xref.page.number=yes" edfisica-livro.txt
+
+pdf2:
+  :sys ~/ambiente/asciidoc-8.6.8/a2x.py -v -f pdf -a docinfo1 --dblatex-opts "-P insert.xref.page.number=yes" --dblatex-opts="-P latex.class.options=twoside" edfisica-livro.txt
+

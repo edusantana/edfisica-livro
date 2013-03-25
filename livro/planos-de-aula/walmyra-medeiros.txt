@@ -44,3 +44,67 @@ Sabendo que a Educação Física é uma disciplina obrigatória, por que ela nã
 
 Eu não posso responder pelos outros, apenas por mim. É uma questão de consciência e de responsabilidade, eu me sinto bem trabalhando assim.
 
+
+// regras? bolas amarradas no pé
+// tirar fotos
+// contruir regras
+
+
+=== Aula prática: jogo competitivo
+// Entradas para o índice remissivo:
+(((Plano de Aula, Jogo competitivo )))
+(((Plano de Aula, Papeis sociais )))
+(((Plano de Aula, Regras, Construção das Regras )))
+(((Plano de Aula, Alimentação saudável )))
+
+.Prática de jogo competitivo 
+image::planos-de-aula/walmyra/jogo-pisa-na-bola.jpg[scaledwidth="50%"]
+
+
+.Desenvolvimento das Atividades
+
+
+Pesquisa sobre jogos cooperativos::
+  Ainda em sala de aula, passei uma pesquisa para a próxima aula:
+  O que é jogo competitivo (<<jogo_competitivo>>)? 
+  O que é jogo cooperativo (<<jogo_cooperativo>>) ? Exemplificar jogo cooperativo.
+
+Vivência de jogo competitivo::
+  Em sala de aula, explicar as regras do jogo e questionar se os alunos
+  desejam modificar/acrescentar regras (<<regras_modificacao>>).
+
+Regras do jogo escolhido::
+  1) Somente metade da quadra poderia ser utilizada. 2) O jogo seria em duplas.
+  3) A dupla não poderá soltar as mãos. 4) Um integrante da dupla carregará 
+  amarrado no tornozelo um balão. 5) A dupla, além de proteger o seu balão
+  terá que procurar estourar os balões das duplas adversárias.
+
+Regras acrescentadas pelos alunos::
+  Não pode empurrar. As bolas só podem ser estouradas com o pé. O espaço 
+  sofreria restrição enquanto a quantidade de duplas diminuam. A dupla 
+  finalista ganharia um prêmio.
+
+Conversa ao final do jogo::
+  Conversar sobre as atividades dos alunos durante o jogo:
+  se todos respeitaram as regras; se as regras combinadas foram suficientes;
+  sobre os diversos comportamentos que cada um assumia, sobre como ele se 
+  sentiram durante o jogo.
+
+Alimentação saudável::
+  O prêmio das duplas vencedoras eram maçãs. Ao entregar o prêmio, apresentava
+  as propriedades da fruta (<<alimento_regulador>>).
+  
+=== Prática: jogo cooperativo
+// Entradas para o índice remissivo:
+(((Plano de Aula, Jogo cooperativo )))
+
+.Desenvolvimento das Atividades
+
+Discussão sobre o resultado da pesquisa::
+  Discutir em sala sobre a pesquisa realizada.
+
+Vivenciar um jogo cooperativo::
+  Selecionaar uma das propostas dos jogos cooperativos trazidas pelos alunos,
+  para ser realizada na quadra. Levar um jogo cooperativos, casos os alunos
+  não tenham trazidos nenhum.
+  

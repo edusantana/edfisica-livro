@@ -40,5 +40,5 @@ texto...
 // atualize o conteúdo abaixo e faça referencia em seu texto.
 
 [bibliography]
-- [[[basquete1]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.
-- [[[basquete2]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.
+- [[[atividadefisica1]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.
+- [[[atividadefisica2]]] Nome do Autor. 'Título da obra'. Editora. ISBN X-XX-XXXXXX-Y.

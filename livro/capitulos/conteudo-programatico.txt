@@ -8,6 +8,10 @@ que o aluno compreenda o contexto em que ela se encontra.
 
 === Contexto da Disciplina de Educaçao Física na Educação
 
+O aluno que estuda no Ensino Médio 
+
+
+
 Você, aluno do 1° ao 3° ano, que já conclui o *Ensino Fundamental* e está cursando 
 o *Ensino Médio*, provavelmente buscando ingressar no *Ensino Superior* 
 ou no Mercado de Trabalho. 
@@ -18,9 +22,6 @@ poderá melhor aproveitar as oportunidades que lhe são apresentadas, bem como
 exigir os seus os direitos, _quando identificar_ que estes não estão sendo
 cumpridos.
 
-
-O aluno quando termina o 9° ano inicia o *Ensino Médio*, que é constituído por
-3 séries: 1º ao 3º ano. º
 
 Primeiramente temos as leis que regulam a Educação no Brasil. 
 Em seguida, temos os Parâmetros Curriculares Nacionais para o Ensino Médio (PCNEM)
@@ -124,7 +125,7 @@ as seguintes perguntas:
 
 [[perguntas_sobre_ldb]]
 _____________________________________________
-. Você está tendo uma preparação básida para o mercado de trabalho? 
+. Você está tendo uma preparação básica para o mercado de trabalho? 
 
 . Você critica os ensinamentos que lhe estão sendo passados, 
 ou simplesmente aceita-os como verdade? Você é instimulado a critica-los?
@@ -134,7 +135,7 @@ ou simplesmente aceita-os como verdade? Você é instimulado a critica-los?
 . Você está compreendendo as relações entre a teoria e prática das disciplinas
 que estuda?
 
-. Você toma iniciativas na escola? Que iniciativas você tomou? 
+. Você toma iniciativas em prol da coletividade na escola? Que iniciativas você tomou? 
 _____________________________________________
 
 
@@ -273,7 +274,7 @@ https://github.com/walmyra/professora-walmyra/raw/master/PCN-Linguagens_codigos_
 
 O texto do PCN trás um conceito para *Linguagem* que o aluno do ensino médio 
 não está familiarizado -- o que dificulta a sua compreensão. 
-Mas de uma forma geral, o paráfrago a seguir resume o objetivo de forma geral
+Mas de uma forma geral, o parágrafo a seguir resume o objetivo de forma geral
 desta área:
 
 
@@ -287,11 +288,11 @@ social (...)*
 _____________________________________________
 
 Em outras palavras, é esperado que o aluno do ensino médio *pratique 
-atividades* que realize pesquisas, que seja estimulado a *selecinar*, nas 
+atividades* que realize pesquisas, que seja estimulado a *selecionar*, nas 
 fontes de pesquisas utilizadas, quais conteúdos são relevantes e quais devem 
 ser descartados. Em seguida, realize uma *análise* sobre sua pesquisa e
 *sintetize* um conhecimento derivado de sua pesquisa. Além disso, é importante
-que o aluno tenha vivência em *argumentar* footnote:[Ao Argumentar, não 
+que o aluno tenha vivência em *argumentar* footnote:[Ao argumentar, não 
 tentamos enquadrar o argumento em 'certo' ou 'errado', o mais 
 importante é que o aluno procure ser coerente em seu argumento.]
 o seu ponto de vista. Igualmente importante, é que o aluno tenha experiências
@@ -391,7 +392,7 @@ ______________
 // professor-treinador e aluno-atleta.
 
 
-=== Pretenções da Educação Física
+=== Pretensões da Educação Física
 
 // Aponta-se uma linha de pensamento que se aprofunda nesse sentido: uma Educação Física
 // atenta aos problemas do presente não poderá deixar de eleger, como uma das suas orientações
@@ -400,7 +401,7 @@ ______________
 // encontra, na orientação pela educação da saúde, um meio de concretização das suas
 // pretensões.
 
-O PCN ainda nós trás que o objetivo central da Educação Física deve ser a 
+O PCN ainda nos traz que o objetivo central da Educação Física deve ser a 
 *educação para a saúde*.
 
 
@@ -436,7 +437,6 @@ médio se propõe (<<ldb_trechos>>).
 
 === Atividade(s)
 
-
 . O PNC nos trás que o objetivo principal da educação Física deve ser a 
 Educação para Saúde. Você sabia que a palavra *saúde* possui vários significados? 
 Pesquise os significados de saúde e indique qual destes você usualmente emprega.
@@ -459,8 +459,8 @@ Física ao decorrer dos anos. *Sim, Educação Física cai no ENEM!*
 
 ==== Atividade(s)
 
-. Por que historicamente a não _era_ dado a Educação Física a mesma importância
-que a outras disciplinas?
+. Por que historicamente a Educação Física não 'tinha' a mesma importância
+que as outras disciplinas?
 
 
 === Bibliografia ===

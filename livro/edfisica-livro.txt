@@ -9,10 +9,9 @@ v1.0, 2003-12
 :ascii-ids:
 
 // a2x default options.
-//   a2x: -f pdf -v
+//   a2x: -v
 // Inclusão de metadados (docinfo.xml)
 //   a2x: -a docinfo1
-//   a2x: -D ../pdf
 // Incluindo numero de página na referencia
 //   a2x: --dblatex-opts "-P insert.xref.page.number=yes"
 
@@ -26,7 +25,9 @@ Educação Física
 ===============
 include::capitulos/conteudo-programatico.txt[]
 include::capitulos/teoria-atividade-fisica.txt[]
+include::capitulos/alimentacao-saudavel.txt[]
 include::capitulos/profissional-de-educacao-fisica.txt[]
+
 
 
 Jogos
@@ -56,7 +57,7 @@ include::planos-de-aula/walmyra-medeiros.txt[]
 
 
 
-// :numbered!:
+:numbered!:
 
 include::apendice.txt[]
 include::glossario.txt[]

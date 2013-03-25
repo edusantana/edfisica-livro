@@ -11,15 +11,38 @@ texto...
 
 texto...
 
+[[jogo_competitivo]]
 ==== Competição
 (((Jogos, Jogos Competitivos)))
 texto...
 
+[[jogo_cooperativo]]
 ==== Cooperação
 (((Jogos, Jogos Coperativos)))
-texto...
 
-=== Atividade elaboração e modificação de regras
+// Fonte: http://www.significados.com.br/jogos-cooperativos/
+// Modificar texto abaixo, foi copiado.
+
+Jogos cooperativos têm por objetivo despertar a consciência de cooperação e 
+promover efetivamente a cooperação entre as pessoas. No jogo cooperativo, 
+aprende-se a considerar o outro que joga como um parceiro, e não como 
+adversário, fazendo com que a pessoa aprenda a se colocar no lugar do outro, 
+e não priorizar seu lado.
+
+São jogos para unir pessoas, e reforçar a confiança em si mesmo e nos outros, 
+pois ganhar ou perder não é o que realmente importa, e sim o processo como um
+todo. Os jogos cooperativos resultam numa vontade de continuar jogando, e 
+aceitar todos como são.
+
+O jogo cooperativo ajuda as pessoas a se libertarem da competição, seu 
+objetivo maior é a participação de todos por uma meta em comum, sem agressão 
+física, e cada um no seu próprio ritmo; ajudam as pessoas a aprenderem a 
+trabalhar em grupos, por não existir uma faixa etária específica em cada jogo. 
+O que mais importa em jogos cooperativos é a colaboração de cada indivíduo do 
+grupo, e o que cada um tem para oferecer no momento da atividade.
+
+[[regras_modificacao]]
+=== Construção e modificação de regras
 texto...
 
 ==== Aplicação dos jogos

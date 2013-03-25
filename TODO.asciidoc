@@ -2,4 +2,6 @@
 
 Sugestão de uso::
   Inclusão de seção para sugestão de uso do livro.
-  
+
+Aula de primeiros socorros::
+  Bombeiros?

@@ -1,1 +1,9 @@
-pdf
+livro/AAPDIR
+
+# Arquivos gerados pelo asciidoc
+livro/*.chunked
+livro/*.pdf
+livro/*.png
+
+# Arquivos gerados pelo latex
+*.pdf
